@@ -9,7 +9,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         boolean ch=true;
         while (ch) {
-            System.out.println("************CALC*****************");
+            System.out.println("************CALCI*****************");
             System.out.println("1. Square Root");
             System.out.println("2. Factorial");
             System.out.println("3. Logarithm");
